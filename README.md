@@ -46,8 +46,6 @@
 
 ## 🚀 Skills & Technologies  
 
-## 🚀 Skills & Technologies  
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,react&perline=5" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github&perline=6" />
