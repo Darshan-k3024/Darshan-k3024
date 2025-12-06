@@ -60,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
@@ -76,7 +76,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation  
+## 🐍 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
