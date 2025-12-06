@@ -54,7 +54,7 @@
 | Project Name | Tech Stack |
 |--------------|------------|
 | 🧠 AI Code Reviewer | HTML, CSS, JS, Node.js |
-| 🍲 Recipe Search App | Node.js, MongoDB |
+| 🏫 Study-Planner | Node.js, MongoDB |
 | 🎬 Movie Recommendation System | Python, ML |
 | 🏨 StayNest (Vacation Rental) | MERN Stack |
 
