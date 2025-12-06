@@ -58,7 +58,7 @@
 
 | Project Name | Tech Stack |
 |--------------|------------|
-| 🧠 AI Code Reviewer | HTML, CSS, JS, Node.js |
+| 🚢 Staynest-vacation-platform | HTML, CSS, Bootstrap, Node.js,expressJS,MongoDB |
 | 🏫 Study-Planner | Node.js, MongoDB |
 | 🎬 Movie Recommendation System | Python, ML |
 | 🏨 StayNest (Vacation Rental) | MERN Stack |
