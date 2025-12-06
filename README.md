@@ -35,6 +35,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/darshan-kumbhar-51b05431a"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+   <a href="https://instagram.com/__darshan__kumbhar__"><img src="https://skillicons.dev/icons?i=instagram"/></a>
   <a href="https://github.com/Darshan-k3024"><img src="https://skillicons.dev/icons?i=github"/></a>
   <a href="mailto:darshankumbhar84@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
