@@ -62,6 +62,7 @@
 | 🏫 Study-Planner | Node.js, MongoDB |
 | 🎬 Movie Recommendation System | Python, ML |
 | 🏨 StayNest (Vacation Rental) | MERN Stack |
+| ⛅ Weather-App | React.js |
 
 ---
 
